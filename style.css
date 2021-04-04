@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.background {
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+  margin: 30px 35%;
+  background-color: gray;
+  height: 500px;
+  width: auto;
+}
+
+.display-main {
+  display: flex;
+  justify-content: center;
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+  margin: 0.5rem ;
+  height: 15%;
+  width: 450px;
+}
